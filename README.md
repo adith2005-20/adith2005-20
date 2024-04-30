@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **DSA, Competitive Programming**
 
-- I'm currently working on **Price Scraper using python**
+- 🔭 I'm currently working on **Price Scraper using python**
 
-- 📫 Reach me **adith.kkb2005@gmail.com**
+- 📫 Reach me at **adith.kkb2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
