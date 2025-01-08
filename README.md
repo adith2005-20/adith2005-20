@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, Competitive Programming**
 
-- 🔭 I'm currently working on **Price Scraper using python**
+- 🔭 I'm currently working on **Tiktr- A Blockchain-based ticket management system**
 
 - 📫 Reach me at **adith.kkb2005@gmail.com**
 
