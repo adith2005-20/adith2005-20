@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Tiktr- A Blockchain-based ticket management system**
 
-- 📫 Reach me at **adith.kkb2005@gmail.com**
+- 📫 Reach me at **adith.kkb2005@gmail.com** or my [portfolio website.](https://adith.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
