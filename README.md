@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adith</h1>
 <h3 align="center">CSE Undergrad at VIT Chennai</h3>
 
-- 🌱 I’m currently learning **DSA, Competitive Programming**
-
-- 🔭 Building **Bithub** — a cozy 2D virtual world with proximity chat for remote teams and friends to hang out, play, or co-work.
-
 - 📫 Reach me at **adith.kkb2005@gmail.com** or my [website.](https://adith.me)
 
 <h3 align="left">Connect with me:</h3>
